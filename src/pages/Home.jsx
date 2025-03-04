@@ -1,6 +1,7 @@
 import '../css/Home.css';
 import { Link } from 'react-router-dom';
-import website from '../assets/website.png';
+import shopProject from '../assets/shopProject.png';
+import movieProject from '../assets/movieProject.png';
 
 function Home() {
     
@@ -10,12 +11,12 @@ function Home() {
         <div className="selected-projects">
             <div className="project">
                 <Link to="/shop-project">
-                    <img src={website} alt="website" />
+                    <img src={shopProject} alt="Shop Project" />
                 </Link>                
             </div>
             <div className="project">
-                <Link to="/shop-project">
-                    <img src={website} alt="website" />
+                <Link to="/movie-project">
+                    <img src={movieProject} alt="Movie Project" />
                 </Link>                
             </div>
         </div>

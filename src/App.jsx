@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Topbar from './components/Topbar';
 import Home from './pages/Home';
 import ShopProject from './pages/ShopProject';
+import MovieProject from './pages/MovieProject';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/shop-project" element={<ShopProject />} />
+        <Route path="/movie-project" element={<MovieProject />} />
       </Routes>
     </>
   )
