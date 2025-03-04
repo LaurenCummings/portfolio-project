@@ -12,6 +12,7 @@ function App() {
       <Topbar />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/portfolio-project" element={<Home />} />
         <Route path="/shop-project" element={<ShopProject />} />
         <Route path="/movie-project" element={<MovieProject />} />
       </Routes>
