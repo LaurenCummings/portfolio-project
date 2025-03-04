@@ -1,0 +1,15 @@
+.topbar {
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.topbar h1 {
+    color: teal;
+    margin-left: 30px;
+}
+
+.topbar a {
+    text-decoration: none;
+}
