@@ -9,10 +9,39 @@
 
 .movie-project-info img {
     width: 600px;
-    border: black 2px solid;
+    border: black 1px solid;
     margin: 30px;
 }
 
 .movie-project-details {
     margin: 30px;
+}
+
+@media (max-width: 900px) {
+    .movie-project-info img {
+        width: 450px;
+    }
+}
+
+@media (max-width: 750px) {
+    .movie-project-info {
+        display: block;
+        text-align: center;
+    }
+
+    .movie-project-info img {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .movie-project-details {
+        margin: 0px;
+    }
+}
+
+@media (max-width: 400px) {
+    .movie-project-info img {
+        width: 350px;
+    }
 }
