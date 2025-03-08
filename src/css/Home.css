@@ -6,7 +6,7 @@
 
 .selected-projects {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .project {
@@ -14,7 +14,7 @@
 }
 
 .selected-projects img {
-    width: 600px;
+    width: 400px;
     border: black 1px solid;
     margin-bottom: 40px;
 }

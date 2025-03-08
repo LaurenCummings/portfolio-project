@@ -1,5 +1,5 @@
 import '../css/ShopProject.css';
-import shopProject from '../assets/shopProject.png';
+import shopProject from '../assets/shopProject2.png';
 
 function ShopProject() {
 
@@ -12,7 +12,10 @@ function ShopProject() {
                 </a>
                 <div className="shop-project-details">
                     <p>An e-commerce frontend built with React</p>
-                    <p>See the code on <a href="https://github.com/LaurenCummings/shop-project">Github</a></p>
+                    <p>Add and remove items from cart</p>
+                    <p>Basic search functionality</p>
+                    <p>Clicking a product opens a dialog box with an image slider for multiple product photos</p>
+                    <p>View the code on <a href="https://github.com/LaurenCummings/shop-project">Github</a></p>
                 </div>
             </div>
             
