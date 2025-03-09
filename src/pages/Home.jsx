@@ -7,7 +7,6 @@ function Home() {
     
     return (
       <div className="home">
-        <h1>Selected Projects</h1>
         <div className="selected-projects">
             <div className="project">
                 <Link to="/shop-project">
