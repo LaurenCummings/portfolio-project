@@ -1,7 +1,16 @@
+.home {
+    background-color: rgba(0, 128, 128, 0.5);
+}
+
 .home h1 {
-    margin-top: 50px;
+    padding-top: 50px;
+    margin-top: 0px;
     margin-bottom: 50px;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    letter-spacing: 1px;
 }
 
 .selected-projects {
@@ -15,8 +24,8 @@
 
 .selected-projects img {
     width: 400px;
-    border: black 1px solid;
     margin-bottom: 40px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 @media (max-width: 1250px) {
