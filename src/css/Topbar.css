@@ -18,3 +18,9 @@
 .topbar a {
     text-decoration: none;
 }
+
+@media (max-width: 400px) {
+    .topbar h1 {
+        font-size: 50px;
+    }
+}
