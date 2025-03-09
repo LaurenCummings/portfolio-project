@@ -49,3 +49,9 @@
         width: 450px;
     }
 }
+
+@media (max-width: 400px) {
+    .selected-projects img {
+        width: 350px;
+    }
+}
