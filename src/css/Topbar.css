@@ -22,5 +22,6 @@
 @media (max-width: 400px) {
     .topbar h1 {
         font-size: 50px;
+        text-shadow: 1px 1px rgba(39, 39, 39, 0.5);
     }
 }
