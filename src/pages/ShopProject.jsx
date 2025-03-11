@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import shopProject from '../assets/shopProject2.png';
+import shopProject from '../assets/shopProject.png';
 
 function ShopProject() {
 

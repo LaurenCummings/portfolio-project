@@ -1,6 +1,6 @@
 import '../css/Home.css';
 import { Link } from 'react-router-dom';
-import shopProject from '../assets/shopProject2.png';
+import shopProject from '../assets/shopProject.png';
 import movieProject from '../assets/movieProject.png';
 
 function Home() {
