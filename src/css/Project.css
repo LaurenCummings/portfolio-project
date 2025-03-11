@@ -1,47 +1,47 @@
-.shop-project h1 {
+.project h1 {
     margin-top: 50px;
     text-align: center;;
 }
 
-.shop-project-info {
+.project-info {
     display: flex;
 }
 
-.shop-project-info img {
+.project-info img {
     width: 600px;
     border: black 1px solid;
     margin: 30px;
 }
 
-.shop-project-details {
+.project-details {
     margin: 30px;
 }
 
 @media (max-width: 900px) {
-    .shop-project-info img {
+    .project-info img {
         width: 450px;
     }
 }
 
 @media (max-width: 750px) {
-    .shop-project-info {
+    .project-info {
         display: block;
         text-align: center;
     }
 
-    .shop-project-info img {
+    .project-info img {
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 20px;
     }
 
-    .shop-project-details {
+    .project-details {
         margin: 0px;
     }
 }
 
 @media (max-width: 400px) {
-    .shop-project-info img {
+    .project-info img {
         width: 350px;
     }
 }

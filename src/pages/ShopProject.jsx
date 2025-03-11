@@ -1,16 +1,16 @@
-import '../css/ShopProject.css';
+import '../css/Project.css';
 import shopProject from '../assets/shopProject2.png';
 
 function ShopProject() {
 
     return (
-        <div className="shop-project">
+        <div className="project">
             <h1>Shop Project</h1>
-            <div className="shop-project-info">
+            <div className="project-info">
                 <a href="https://laurencummings.github.io/shop-project/">
                     <img src={shopProject} alt="Shop Project" />
                 </a>
-                <div className="shop-project-details">
+                <div className="project-details">
                     <p>An e-commerce frontend built with React</p>
                     <p>Add and remove items from cart</p>
                     <p>Basic search functionality</p>
