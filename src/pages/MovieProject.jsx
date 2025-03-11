@@ -11,7 +11,9 @@ function MovieProject() {
                 </a>
                 <div className="project-details">
                     <p>A movie database created using The Movie Database API</p>
-                    <p>See the code on <a href="https://github.com/LaurenCummings/movie-project">Github</a></p>
+                    <p>Browse movies and actors, and view details on both</p>
+                    <p>User can select their favorite movies, which are displayed on a separate page</p>
+                    <p>View the code on <a href="https://github.com/LaurenCummings/movie-project">Github</a></p>
                 </div>
             </div>
             
