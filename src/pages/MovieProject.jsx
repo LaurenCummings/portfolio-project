@@ -5,7 +5,6 @@ function MovieProject() {
 
     return (
         <div className="project">
-            <h1>Movie Project</h1>
             <div className="project-info">
                 <a href="https://laurencummings.github.io/movie-project/" >
                     <img src={movieProject} alt="Movie Project" />

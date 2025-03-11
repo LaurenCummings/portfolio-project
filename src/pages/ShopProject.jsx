@@ -5,7 +5,6 @@ function ShopProject() {
 
     return (
         <div className="project">
-            <h1>Shop Project</h1>
             <div className="project-info">
                 <a href="https://laurencummings.github.io/shop-project/">
                     <img src={shopProject} alt="Shop Project" />

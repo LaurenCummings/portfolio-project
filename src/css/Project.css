@@ -2,12 +2,6 @@
     background-color: rgba(0, 128, 128, 0.5);
 }
 
-.project h1 {
-    padding-top: 50px;
-    margin-top: 0px;
-    text-align: center;;
-}
-
 .project-info {
     display: flex;
 }
