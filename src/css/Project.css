@@ -25,7 +25,10 @@
 }
 
 .project-details li {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(26, 26, 26);
 }
 
 @media (max-width: 900px) {
