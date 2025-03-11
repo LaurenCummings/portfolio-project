@@ -10,10 +10,12 @@ function MovieProject() {
                     <img src={movieProject} alt="Movie Project" />
                 </a>
                 <div className="project-details">
-                    <p>A movie database created using The Movie Database API</p>
-                    <p>Browse movies and actors, and view details on both</p>
-                    <p>User can select their favorite movies, which are displayed on a separate page</p>
-                    <p>View the code on <a href="https://github.com/LaurenCummings/movie-project">Github</a></p>
+                    <ul>
+                        <li>A movie database created using The Movie Database API</li>
+                        <li>Browse movies and actors, and view details on both</li>
+                        <li>User can select their favorite movies, which are displayed on a separate page</li>
+                        <li>View the code on <a href="https://github.com/LaurenCummings/movie-project">Github</a></li>
+                    </ul>
                 </div>
             </div>
             
