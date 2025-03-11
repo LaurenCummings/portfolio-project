@@ -4,7 +4,7 @@ import movieProject from '../assets/movieProject.png';
 function MovieProject() {
 
     return (
-        <div className="project">
+        <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/movie-project/" >
                     <img src={movieProject} alt="Movie Project" />

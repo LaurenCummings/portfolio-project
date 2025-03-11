@@ -4,7 +4,7 @@ import shopProject from '../assets/shopProject2.png';
 function ShopProject() {
 
     return (
-        <div className="project">
+        <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/shop-project/">
                     <img src={shopProject} alt="Shop Project" />
