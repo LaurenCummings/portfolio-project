@@ -13,7 +13,6 @@ function ShopProject() {
                     <ul>
                         <li>An e-commerce frontend built with React</li>
                         <li>Add and remove items from cart</li>
-                        <li>Basic search functionality</li>
                         <li>Clicking a product opens a dialog box with an image slider for multiple product photos</li>
                         <li>View the code on <a href="https://github.com/LaurenCummings/shop-project">Github</a></li>
                     </ul>
