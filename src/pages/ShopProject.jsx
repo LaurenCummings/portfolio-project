@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import shopProject from '../assets/shopProject.png';
+import shopCollage from '../assets/shopCollage.png';
 
 function ShopProject() {
 
@@ -7,7 +7,7 @@ function ShopProject() {
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/shop-project/">
-                    <img src={shopProject} alt="Shop Project" />
+                    <img src={shopCollage} alt="Collage of shop project" />
                 </a>
                 <div className="project-details">
                     <ul>

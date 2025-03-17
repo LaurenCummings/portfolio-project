@@ -9,7 +9,7 @@
 
 .project-info img {
     width: 600px;
-    border: black 1px solid;
+    border: none;
     margin: 30px;
     transition: transform 0.2s;
 }
