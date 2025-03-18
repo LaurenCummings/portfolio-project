@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import movieProject from '../assets/movieProject.png';
+import movieCollage from '../assets/movieCollage.png';
 
 function MovieProject() {
 
@@ -7,7 +7,7 @@ function MovieProject() {
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/movie-project/" >
-                    <img src={movieProject} alt="Movie Project" />
+                    <img src={movieCollage} alt="Collage of movie project" />
                 </a>
                 <div className="project-details">
                     <ul>
