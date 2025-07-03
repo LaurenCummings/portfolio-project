@@ -1,6 +1,7 @@
 .selected-project {
     background-color: rgba(0, 128, 128, 0.5);
     padding-bottom: 30px;
+    min-height: calc(100vh - 100px - 30px);
 }
 
 .project-info {
