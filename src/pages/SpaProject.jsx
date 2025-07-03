@@ -6,7 +6,7 @@ function SpaProject() {
     return (
         <div className="selected-project">
             <div className="project-info">
-                <a href="https://laurencummings.github.io/movie-project/" >
+                <a href="https://laurencummings.github.io/spa-project/" >
                     <img src={movieCollage} alt="Collage of movie project" />
                 </a>
                 <div className="project-details">
