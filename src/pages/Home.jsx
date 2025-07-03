@@ -9,6 +9,11 @@ function Home() {
       <div className="home">
         <div className="selected-projects">
             <div className="project">
+                <Link to="/cummings-maple">
+                    <img src={shopProject} alt="Cummings Maple" />
+                </Link>                
+            </div> 
+            <div className="project">
                 <Link to="/spa-project">
                     <img src={shopProject} alt="Spa Project" />
                 </Link>                
