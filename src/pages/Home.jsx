@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import shopProject from '../assets/shopProject.png';
 import movieProject from '../assets/movieProject.png';
 import cummingsMaple from '../assets/cummingsMaple.png';
-import spaProject from '../assets/spaProject.png';
+import spaProject from '../assets/spaProjectShort.png';
 
 function Home() {
     
