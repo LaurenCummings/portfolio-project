@@ -2,6 +2,8 @@ import '../css/Home.css';
 import { Link } from 'react-router-dom';
 import shopProject from '../assets/shopProject.png';
 import movieProject from '../assets/movieProject.png';
+import cummingsMaple from '../assets/cummingsMaple.png';
+import spaProject from '../assets/spaProject.png';
 
 function Home() {
     
@@ -10,12 +12,12 @@ function Home() {
         <div className="selected-projects">
             <div className="project">
                 <Link to="/cummings-maple">
-                    <img src={shopProject} alt="Cummings Maple" />
+                    <img src={cummingsMaple} alt="Cummings Maple" />
                 </Link>                
             </div> 
             <div className="project">
                 <Link to="/spa-project">
-                    <img src={shopProject} alt="Spa Project" />
+                    <img src={spaProject} alt="Spa Project" />
                 </Link>                
             </div>            
             <div className="project">
