@@ -15,7 +15,7 @@ function CummingsMaple() {
                         <li>Built with React</li>
                         <li>Responsive down to 350px</li>
                         <li>Features a grid design to display products, with optional filtering by category</li>
-                        <li>Features individual product pages with a pop-up for product-specific information</li>
+                        <li>Individual product pages with a pop-up for product-specific information</li>
                         <li>View the code on <a href="https://github.com/LaurenCummings/cummings-maple-vite">Github</a></li>
                     </ul>
                 </div>
