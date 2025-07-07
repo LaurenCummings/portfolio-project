@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import movieCollage from '../assets/movieCollage.png';
+import spaProject from '../assets/spaProject.png';
 
 function SpaProject() {
 
@@ -7,7 +7,7 @@ function SpaProject() {
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/spa-project/" >
-                    <img src={movieCollage} alt="Collage of movie project" />
+                    <img src={spaProject} alt="Spa Project Page" />
                 </a>
                 <div className="project-details">
                     <ul>
