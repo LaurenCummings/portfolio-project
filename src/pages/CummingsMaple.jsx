@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import movieCollage from '../assets/movieCollage.png';
+import cummingsMapleCollage from '../assets/cummingsMapleCollage.png';
 
 function CummingsMaple() {
 
@@ -7,7 +7,7 @@ function CummingsMaple() {
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://cummingsmaple.com" >
-                    <img src={movieCollage} alt="Collage of movie project" />
+                    <img src={cummingsMapleCollage} alt="Collage of Cummings Maple" />
                 </a>
                 <div className="project-details">
                     <ul>
