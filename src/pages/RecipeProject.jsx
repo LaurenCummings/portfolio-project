@@ -1,4 +1,5 @@
 import '../css/Project.css';
+import cummingsMapleCollage from '../assets/cummingsMapleCollage.png';
 
 function RecipeProject() {
     return (
