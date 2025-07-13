@@ -1,12 +1,12 @@
 import '../css/Project.css';
-import cummingsMapleCollage from '../assets/cummingsMapleCollage.png';
+import recipeProjectCollage from '../assets/recipeProjectCollage.png';
 
 function RecipeProject() {
     return (
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/recipe-project2/" >
-                    <img src={cummingsMapleCollage} alt="Collage of Cummings Maple" />
+                    <img src={recipeProjectCollage} alt="Collage of Recipe Project website" />
                 </a>
                 <div className="project-details">
                     <ul>
