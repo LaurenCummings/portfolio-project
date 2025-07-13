@@ -4,12 +4,18 @@ import shopProject from '../assets/shopProject.png';
 import movieProject from '../assets/movieProject.png';
 import cummingsMaple from '../assets/cummingsMaple.png';
 import spaProject from '../assets/spaProjectShort.png';
+import recipeProject from '../assets/recipeProject.png';
 
 function Home() {
     
     return (
       <div className="home">
         <div className="selected-projects">
+            <div className="project">
+                <Link to="/cummings-maple">
+                    <img src={recipeProject} alt="Recipe Project" />
+                </Link>                
+            </div> 
             <div className="project">
                 <Link to="/cummings-maple">
                     <img src={cummingsMaple} alt="Cummings Maple" />
