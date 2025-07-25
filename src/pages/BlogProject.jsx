@@ -11,10 +11,11 @@ function BlogProject() {
                 </a>
                 <div className="project-details">
                     <ul>
-                        <li>A movie database created using The Movie Database API</li>
+                        <li>A demo blog created with the DummyJSON API</li>
                         <li>Built with React</li>
-                        <li>Browse movies and actors, and view details on both</li>
-                        <li>User can select their favorite movies, which are displayed on a separate page</li>
+                        <li>Users can navigate through posts or search by keyword</li>
+                        <li>A shared "feed" area that switches control between blog posts and search results</li>
+                        <li>Responsive down to 350px</li>
                         <li>View the code on <a href="https://github.com/LaurenCummings/blog-project">Github</a></li>
                     </ul>
                 </div>
