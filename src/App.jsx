@@ -2,6 +2,7 @@ import './css/App.css';
 import { Routes, Route } from 'react-router-dom';
 import Topbar from './components/Topbar';
 import Home from './pages/Home';
+import BlogProject from './pages/BlogProject';
 import RecipeProject from './pages/RecipeProject';
 import CummingsMaple from './pages/CummingsMaple';
 import SpaProject from './pages/SpaProject';
