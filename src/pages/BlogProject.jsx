@@ -1,5 +1,5 @@
 import '../css/Project.css';
-import movieCollage from '../assets/movieCollage.png';
+import blogCollage from '../assets/blogCollage.png';
 
 function BlogProject() {
 
