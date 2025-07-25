@@ -14,7 +14,7 @@ function Home() {
         <div className="selected-projects">
             <div className="project">
                 <Link to="/blog-project">
-                    <img src={recipeProject} alt="Blog Project" />
+                    <img src={blogProject} alt="Blog Project" />
                 </Link>                
             </div> 
             <div className="project">
