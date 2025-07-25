@@ -5,6 +5,7 @@ import movieProject from '../assets/movieProject.png';
 import cummingsMaple from '../assets/cummingsMaple.png';
 import spaProject from '../assets/spaProjectShort.png';
 import recipeProject from '../assets/recipeProject.png';
+import blogProject from '../assets/blogProject.png';
 
 function Home() {
     
