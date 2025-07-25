@@ -7,7 +7,7 @@ function BlogProject() {
         <div className="selected-project">
             <div className="project-info">
                 <a href="https://laurencummings.github.io/blog-project/" >
-                    <img src={movieCollage} alt="Collage of movie project" />
+                    <img src={blogCollage} alt="Collage of blog project" />
                 </a>
                 <div className="project-details">
                     <ul>
