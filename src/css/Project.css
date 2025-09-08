@@ -4,6 +4,13 @@
   min-height: calc(100vh - 100px - 30px);
 }
 
+.selected-project h1 {
+  margin: 0;
+  padding: 50px 0px 20px 0px;
+  text-align: center;
+  font-family: "Noto Sans", serif;
+}
+
 .project-info {
   display: flex;
   justify-content: center;
