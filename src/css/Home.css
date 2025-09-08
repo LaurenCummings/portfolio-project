@@ -26,25 +26,34 @@
   transform: translateY(-5px);
 }
 
-@media (max-width: 1250px) {
-  .selected-projects img {
-    width: 500px;
+@media (max-width: 1800px) {
+  .selected-projects {
+    width: 90%;
   }
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 1450px) {
+  .selected-projects {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1350px) {
+  .selected-projects {
+    grid-template-columns: 1fr 1fr;
+    width: 80%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .selected-projects {
+    width: 100%;
+  }
+}
+
+@media (max-width: 900px) {
   .selected-projects {
     grid-template-columns: 1fr;
-  }
-
-  .selected-projects img {
-    width: 600px;
-  }
-}
-
-@media (max-width: 640px) {
-  .selected-projects img {
-    width: 450px;
   }
 }
 
