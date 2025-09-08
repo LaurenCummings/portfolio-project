@@ -11,7 +11,6 @@ function BlogProject() {
         </a>
         <div className="project-details">
           <ul>
-            <li>A demo blog created with the DummyJSON API</li>
             <li>Fetches data from an API</li>
             <li>Built with React</li>
             <li>Users can navigate through posts or search by keyword</li>
