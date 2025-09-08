@@ -16,7 +16,7 @@ function SpaProject() {
               appointments
             </li>
             <li>Built with React</li>
-            <li>A single page design with no routing</li>
+            <li>A single page website design</li>
             <li>Features auto-scrolling to navigate page</li>
             <li>Utilizes React-Calendar for date selection</li>
             <li>CSS animations used to create a continuously moving banner</li>
