@@ -3,6 +3,13 @@
   min-height: calc(100vh - 100px);
 }
 
+.home h1 {
+  margin: 0;
+  padding: 50px 0px 20px 0px;
+  text-align: center;
+  font-family: "Noto Sans", serif;
+}
+
 .selected-projects {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
