@@ -1,16 +1,16 @@
-import './css/App.css';
-import { Routes, Route } from 'react-router-dom';
-import Topbar from './components/Topbar';
-import Home from './pages/Home';
-import BlogProject from './pages/BlogProject';
-import RecipeProject from './pages/RecipeProject';
-import CummingsMaple from './pages/CummingsMaple';
-import SpaProject from './pages/SpaProject';
-import ShopProject from './pages/ShopProject';
-import MovieProject from './pages/MovieProject';
+import "./css/App.css";
+import { Routes, Route } from "react-router-dom";
+import Topbar from "./components/Topbar";
+import Home from "./pages/Home";
+import BlogProject from "./pages/BlogProject";
+import RecipeProject from "./pages/RecipeProject";
+import CummingsMaple from "./pages/CummingsMaple";
+import SpaProject from "./pages/SpaProject";
+import ShopProject from "./pages/ShopProject";
+import MovieProject from "./pages/MovieProject";
+import Footer from "./components/Footer";
 
 function App() {
-
   return (
     <>
       <Topbar />
@@ -24,8 +24,9 @@ function App() {
         <Route path="/shop-project" element={<ShopProject />} />
         <Route path="/movie-project" element={<MovieProject />} />
       </Routes>
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
