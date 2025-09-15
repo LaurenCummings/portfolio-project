@@ -11,14 +11,14 @@ function CookbookProject() {
         </a>
         <div className="project-details">
           <ul>
-            <li>Fetches data from an API</li>
-            <li>Built with React</li>
-            <li>Users can navigate through posts or search by keyword</li>
             <li>
-              A shared "feed" area that switches control between blog posts and
-              search results
+              A personal project created to organize recipes I've collected
             </li>
-            <li>Responsive down to 350px</li>
+            <li>Built with the MERN stack</li>
+            <li>Backend code features an API and NoSQL model for recipes</li>
+            <li>Logging in allows user to add, delete, and update recipes</li>
+            <li>Optional light/dark mode</li>
+            <li>Built with Chakra UI</li>
             <li>
               View the code on{" "}
               <a href="https://github.com/LaurenCummings/cookbook-project">
