@@ -21,7 +21,7 @@ function CookbookProject() {
             <li>Responsive down to 350px</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/blog-project">
+              <a href="https://github.com/LaurenCummings/cookbook-project">
                 Github
               </a>
             </li>
