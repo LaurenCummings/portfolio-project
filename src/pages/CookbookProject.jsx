@@ -4,7 +4,7 @@ import blogCollage from "../assets/blogCollage.png";
 function CookbookProject() {
   return (
     <div className="selected-project">
-      <h1>Demo Blog Project</h1>
+      <h1>Personal Cookbook</h1>
       <div className="project-info">
         <a href="https://laurencummings.github.io/blog-project/">
           <img src={blogCollage} alt="Collage of blog project" />
