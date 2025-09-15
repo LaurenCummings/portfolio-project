@@ -8,6 +8,8 @@ import CummingsMaple from "./pages/CummingsMaple";
 import SpaProject from "./pages/SpaProject";
 import ShopProject from "./pages/ShopProject";
 import MovieProject from "./pages/MovieProject";
+import CookbookProject from "./pages/CookbookProject";
+import NotesProject from "./pages/NotesProject";
 import Footer from "./components/Footer";
 
 function App() {
@@ -23,6 +25,8 @@ function App() {
         <Route path="/spa-project" element={<SpaProject />} />
         <Route path="/shop-project" element={<ShopProject />} />
         <Route path="/movie-project" element={<MovieProject />} />
+        <Route path="/cookbook-project" element={<CookbookProject />} />
+        <Route path="/notes-project" element={<NotesProject />} />
       </Routes>
       <Footer />
     </>
