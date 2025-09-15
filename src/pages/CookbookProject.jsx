@@ -6,7 +6,7 @@ function CookbookProject() {
     <div className="selected-project">
       <h1>Personal Cookbook</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/blog-project/">
+        <a href="https://cookbook-project-b5v3.onrender.com/">
           <img src={cookbookProjectCollage} alt="Collage of cookbook project" />
         </a>
         <div className="project-details">
