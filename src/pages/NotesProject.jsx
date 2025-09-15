@@ -4,7 +4,7 @@ import blogCollage from "../assets/blogCollage.png";
 function NotesProject() {
   return (
     <div className="selected-project">
-      <h1>Demo Blog Project</h1>
+      <h1>Notes Project</h1>
       <div className="project-info">
         <a href="https://thinkboard-project.onrender.com/">
           <img src={blogCollage} alt="Collage of blog project" />
