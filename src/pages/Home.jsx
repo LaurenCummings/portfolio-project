@@ -10,6 +10,7 @@ import blogProject from "../assets/blogProject.png";
 function Home() {
   return (
     <div className="home">
+      <h1>Full-Stack Projects</h1>
       <h1>Front-End Projects</h1>
       <div className="selected-projects">
         <div className="project">
