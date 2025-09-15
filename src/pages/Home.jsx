@@ -13,12 +13,12 @@ function Home() {
       <h1>Full-Stack Projects</h1>
       <div className="selected-projects">
         <div className="project">
-          <Link to="/blog-project">
+          <Link to="/cookbook-project">
             <img src={blogProject} alt="Cookbook Project" />
           </Link>
         </div>
         <div className="project">
-          <Link to="/blog-project">
+          <Link to="/notes-project">
             <img src={blogProject} alt="Notes Project" />
           </Link>
         </div>
