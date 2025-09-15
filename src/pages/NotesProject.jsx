@@ -11,17 +11,12 @@ function NotesProject() {
         </a>
         <div className="project-details">
           <ul>
-            <li>Fetches data from an API</li>
-            <li>Built with React</li>
-            <li>Users can navigate through posts or search by keyword</li>
-            <li>
-              A shared "feed" area that switches control between blog posts and
-              search results
-            </li>
-            <li>Responsive down to 350px</li>
+            <li>User can add, update, and delete notes</li>
+            <li>Built with the MERN stack</li>
+            <li>UI built with Tailwind CSS</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/blog-project">
+              <a href="https://github.com/LaurenCummings/thinkboard-project">
                 Github
               </a>
             </li>
