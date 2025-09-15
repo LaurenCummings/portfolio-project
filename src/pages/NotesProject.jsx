@@ -6,7 +6,7 @@ function NotesProject() {
     <div className="selected-project">
       <h1>Demo Blog Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/blog-project/">
+        <a href="https://thinkboard-project.onrender.com/">
           <img src={blogCollage} alt="Collage of blog project" />
         </a>
         <div className="project-details">
