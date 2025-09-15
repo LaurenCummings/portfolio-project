@@ -14,12 +14,12 @@ function Home() {
       <div className="selected-projects">
         <div className="project">
           <Link to="/blog-project">
-            <img src={blogProject} alt="Blog Project" />
+            <img src={blogProject} alt="Cookbook Project" />
           </Link>
         </div>
         <div className="project">
           <Link to="/blog-project">
-            <img src={blogProject} alt="Blog Project" />
+            <img src={blogProject} alt="Notes Project" />
           </Link>
         </div>
       </div>
