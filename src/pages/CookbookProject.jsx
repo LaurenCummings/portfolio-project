@@ -1,5 +1,5 @@
 import "../css/Project.css";
-import blogCollage from "../assets/blogCollage.png";
+import cookbookProjectCollage from "../assets/cookbookProjectCollage.png";
 
 function CookbookProject() {
   return (
@@ -7,7 +7,7 @@ function CookbookProject() {
       <h1>Personal Cookbook</h1>
       <div className="project-info">
         <a href="https://laurencummings.github.io/blog-project/">
-          <img src={blogCollage} alt="Collage of blog project" />
+          <img src={cookbookProjectCollage} alt="Collage of cookbook project" />
         </a>
         <div className="project-details">
           <ul>
