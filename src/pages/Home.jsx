@@ -11,6 +11,20 @@ function Home() {
   return (
     <div className="home">
       <h1>Full-Stack Projects</h1>
+      <div className="selected-projects">
+        <div className="project">
+          <Link to="/blog-project">
+            <img src={blogProject} alt="Blog Project" />
+          </Link>
+        </div>
+      </div>
+      <div className="selected-projects">
+        <div className="project">
+          <Link to="/blog-project">
+            <img src={blogProject} alt="Blog Project" />
+          </Link>
+        </div>
+      </div>
       <h1>Front-End Projects</h1>
       <div className="selected-projects">
         <div className="project">
