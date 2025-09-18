@@ -13,7 +13,7 @@ function NotesProject() {
           <ul>
             <li>User can add, update, and delete notes</li>
             <li>Built with the MERN stack</li>
-            <li>UI built with Tailwind CSS</li>
+            <li>UI built with Tailwind CSS and DaisyUI</li>
             <li>
               View the code on{" "}
               <a href="https://github.com/LaurenCummings/thinkboard-project">
