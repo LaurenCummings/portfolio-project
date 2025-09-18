@@ -7,6 +7,7 @@ import spaProject from "../assets/spaProjectShort.png";
 import recipeProject from "../assets/recipeProject.png";
 import blogProject from "../assets/blogProject.png";
 import cookbookProject from "../assets/cookbookProject.png";
+import notesProject from "../assets/notesProject.png";
 
 function Home() {
   return (
@@ -20,7 +21,7 @@ function Home() {
         </div>
         <div className="project">
           <Link to="/notes-project">
-            <img src={blogProject} alt="Notes Project" />
+            <img src={notesProject} alt="Notes Project" />
           </Link>
         </div>
       </div>
