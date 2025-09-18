@@ -1,5 +1,5 @@
 import "../css/Project.css";
-import blogCollage from "../assets/blogCollage.png";
+import notesCollage from "../assets/notesCollage.png";
 
 function NotesProject() {
   return (
@@ -7,7 +7,7 @@ function NotesProject() {
       <h1>Notes Project</h1>
       <div className="project-info">
         <a href="https://thinkboard-project.onrender.com/">
-          <img src={blogCollage} alt="Collage of blog project" />
+          <img src={notesCollage} alt="Collage of notes project" />
         </a>
         <div className="project-details">
           <ul>
