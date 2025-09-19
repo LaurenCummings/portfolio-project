@@ -11,7 +11,7 @@ function NotesProject() {
         </a>
         <div className="project-details">
           <ul>
-            <li>User can add, update, and delete notes</li>
+            <li>Users can add, update, and delete notes</li>
             <li>Built with the MERN stack</li>
             <li>UI built with Tailwind CSS and DaisyUI</li>
             <li>
