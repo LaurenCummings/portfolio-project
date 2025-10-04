@@ -10,6 +10,7 @@ import ShopProject from "./pages/ShopProject";
 import MovieProject from "./pages/MovieProject";
 import CookbookProject from "./pages/CookbookProject";
 import NotesProject from "./pages/NotesProject";
+import ChatProject from "./pages/ChatProject";
 import Footer from "./components/Footer";
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
         <Route path="/movie-project" element={<MovieProject />} />
         <Route path="/cookbook-project" element={<CookbookProject />} />
         <Route path="/notes-project" element={<NotesProject />} />
+        <Route path="/chat-project" element={<ChatProject />} />
       </Routes>
       <Footer />
     </>

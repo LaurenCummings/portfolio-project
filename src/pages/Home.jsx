@@ -16,7 +16,7 @@ function Home() {
       <h1>Full-Stack Projects</h1>
       <div className="selected-projects">
         <div className="project">
-          <Link to="/cookbook-project">
+          <Link to="/chat-project">
             <img src={chatProject} alt="Chat Project" />
           </Link>
         </div>
