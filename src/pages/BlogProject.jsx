@@ -6,7 +6,7 @@ function BlogProject() {
     <div className="selected-project">
       <h1>Demo Blog Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/blog-project/">
+        <a target="_blank" href="https://laurencummings.github.io/blog-project/">
           <img src={blogCollage} alt="Collage of blog project" />
         </a>
         <div className="project-details">
@@ -21,7 +21,7 @@ function BlogProject() {
             <li>Responsive down to 350px</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/blog-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/blog-project">
                 Github
               </a>
             </li>
