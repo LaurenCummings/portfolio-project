@@ -1,5 +1,5 @@
 import "../css/Project.css";
-import cookbookProjectCollage from "../assets/cookbookProjectCollage.png";
+import chatProjectCollage from "../assets/chatProjectCollage.png";
 
 function ChatProject() {
   return (
@@ -7,7 +7,7 @@ function ChatProject() {
       <h1>Demo Real-Time Chat Project</h1>
       <div className="project-info">
         <a href="https://chat-project-rkax.onrender.com">
-          <img src={cookbookProjectCollage} alt="Collage of cookbook project" />
+          <img src={chatProjectCollage} alt="Collage of chat project" />
         </a>
         <div className="project-details">
           <ul>
