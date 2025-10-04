@@ -8,12 +8,18 @@ import recipeProject from "../assets/recipeProject.png";
 import blogProject from "../assets/blogProject.png";
 import cookbookProject from "../assets/cookbookProject.png";
 import notesProject from "../assets/notesProject.png";
+import chatProject from "../assets/chatProject.png";
 
 function Home() {
   return (
     <div className="home">
       <h1>Full-Stack Projects</h1>
       <div className="selected-projects">
+        <div className="project">
+          <Link to="/cookbook-project">
+            <img src={chatProject} alt="Chat Project" />
+          </Link>
+        </div>
         <div className="project">
           <Link to="/cookbook-project">
             <img src={cookbookProject} alt="Cookbook Project" />
