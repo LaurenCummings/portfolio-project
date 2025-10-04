@@ -6,7 +6,7 @@ function ChatProject() {
     <div className="selected-project">
       <h1>Demo Real-Time Chat Project</h1>
       <div className="project-info">
-        <a href="https://chat-project-rkax.onrender.com">
+        <a target="_blank" href="https://chat-project-rkax.onrender.com">
           <img src={chatProjectCollage} alt="Collage of chat project" />
         </a>
         <div className="project-details">
