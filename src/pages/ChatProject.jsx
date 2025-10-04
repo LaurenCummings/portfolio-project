@@ -12,16 +12,16 @@ function ChatProject() {
         <div className="project-details">
           <ul>
             <li>
-              A personal project created to organize recipes I've collected
+              A real-time chat application where users can send each other messages
             </li>
-            <li>Built with the MERN stack</li>
-            <li>Backend code features an API and NoSQL model for recipes</li>
-            <li>Logging in allows user to add, delete, and update recipes</li>
-            <li>Optional light/dark mode</li>
-            <li>Built with Chakra UI</li>
+            <li>Users can choose from 32 different themes</li>
+            <li>Online users are denoted by a green circle</li>
+            <li>Uses TailwindCSS and DaisyUI for styling</li>
+            <li>Users and messages are stored in a MongoDB database</li>
+            <li>Socket.io is used to update chat instantly with new messages</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/cookbook-project">
+              <a href="https://github.com/LaurenCummings/chat-project">
                 Github
               </a>
             </li>
