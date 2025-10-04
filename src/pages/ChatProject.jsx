@@ -22,7 +22,7 @@ function ChatProject() {
             <li>Cloudinary used to allow users to send each other images</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/chat-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/chat-project">
                 Github
               </a>
             </li>
