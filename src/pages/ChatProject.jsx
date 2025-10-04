@@ -4,7 +4,7 @@ import cookbookProjectCollage from "../assets/cookbookProjectCollage.png";
 function ChatProject() {
   return (
     <div className="selected-project">
-      <h1>Personal Cookbook</h1>
+      <h1>Demo Real-Time Chat Project</h1>
       <div className="project-info">
         <a href="https://chat-project-rkax.onrender.com">
           <img src={cookbookProjectCollage} alt="Collage of cookbook project" />
