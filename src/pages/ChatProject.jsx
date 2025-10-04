@@ -19,6 +19,7 @@ function ChatProject() {
             <li>Uses TailwindCSS and DaisyUI for styling</li>
             <li>Users and messages are stored in a MongoDB database</li>
             <li>Socket.io is used to update chat instantly with new messages</li>
+            <li>Cloudinary used to allow users to send each other images</li>
             <li>
               View the code on{" "}
               <a href="https://github.com/LaurenCummings/chat-project">
