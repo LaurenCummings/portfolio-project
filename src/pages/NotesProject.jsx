@@ -6,7 +6,7 @@ function NotesProject() {
     <div className="selected-project">
       <h1>Notes Project</h1>
       <div className="project-info">
-        <a href="https://thinkboard-project.onrender.com/">
+        <a target="_blank" href="https://thinkboard-project.onrender.com/">
           <img src={notesCollage} alt="Collage of notes project" />
         </a>
         <div className="project-details">
@@ -18,7 +18,7 @@ function NotesProject() {
             <li>Uses React Hot Toast to give user feedback when note is created, updated, or deleted</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/thinkboard-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/thinkboard-project">
                 Github
               </a>
             </li>

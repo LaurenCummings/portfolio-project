@@ -6,7 +6,7 @@ function SpaProject() {
     <div className="selected-project">
       <h1>Demo Business Website Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/spa-project/">
+        <a target="_blank" href="https://laurencummings.github.io/spa-project/">
           <img src={spaProject} alt="Spa Project Page" />
         </a>
         <div className="project-details">
@@ -22,7 +22,7 @@ function SpaProject() {
             <li>CSS animations used to create a continuously moving banner</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/spa-project">Github</a>
+              <a target="_blank" href="https://github.com/LaurenCummings/spa-project">Github</a>
             </li>
           </ul>
         </div>

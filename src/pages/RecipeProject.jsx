@@ -6,7 +6,7 @@ function RecipeProject() {
     <div className="selected-project">
       <h1>Demo Cookbook Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/recipe-project2/">
+        <a target="_blank" href="https://laurencummings.github.io/recipe-project2/">
           <img
             src={recipeProjectCollage}
             alt="Collage of Recipe Project website"
@@ -25,7 +25,7 @@ function RecipeProject() {
             </li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/recipe-project2">
+              <a target="_blank" href="https://github.com/LaurenCummings/recipe-project2">
                 Github
               </a>
             </li>

@@ -6,7 +6,7 @@ function CookbookProject() {
     <div className="selected-project">
       <h1>Personal Cookbook</h1>
       <div className="project-info">
-        <a href="https://cookbook-project-b5v3.onrender.com/">
+        <a target="_blank" href="https://cookbook-project-b5v3.onrender.com/">
           <img src={cookbookProjectCollage} alt="Collage of cookbook project" />
         </a>
         <div className="project-details">
@@ -21,7 +21,7 @@ function CookbookProject() {
             <li>Built with Chakra UI</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/cookbook-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/cookbook-project">
                 Github
               </a>
             </li>

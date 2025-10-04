@@ -6,7 +6,7 @@ function ShopProject() {
     <div className="selected-project">
       <h1>Demo Shop Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/shop-project/">
+        <a target="_blank" href="https://laurencummings.github.io/shop-project/">
           <img src={shopCollage} alt="Collage of shop project" />
         </a>
         <div className="project-details">
@@ -19,7 +19,7 @@ function ShopProject() {
             </li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/shop-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/shop-project">
                 Github
               </a>
             </li>

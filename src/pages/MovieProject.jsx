@@ -6,7 +6,7 @@ function MovieProject() {
     <div className="selected-project">
       <h1>Demo Movie Database Project</h1>
       <div className="project-info">
-        <a href="https://laurencummings.github.io/movie-project/">
+        <a target="_blank" href="https://laurencummings.github.io/movie-project/">
           <img src={movieCollage} alt="Collage of movie project" />
         </a>
         <div className="project-details">
@@ -17,7 +17,7 @@ function MovieProject() {
             <li>Users can store a list of their favorite movies</li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/movie-project">
+              <a target="_blank" href="https://github.com/LaurenCummings/movie-project">
                 Github
               </a>
             </li>

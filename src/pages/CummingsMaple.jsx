@@ -6,7 +6,7 @@ function CummingsMaple() {
     <div className="selected-project">
       <h1>Website for Local Business</h1>
       <div className="project-info">
-        <a href="https://cummingsmaple.com">
+        <a target="_blank" href="https://cummingsmaple.com">
           <img src={cummingsMapleCollage} alt="Collage of Cummings Maple" />
         </a>
         <div className="project-details">
@@ -26,7 +26,7 @@ function CummingsMaple() {
             </li>
             <li>
               View the code on{" "}
-              <a href="https://github.com/LaurenCummings/cummings-maple-vite">
+              <a target="_blank" href="https://github.com/LaurenCummings/cummings-maple-vite">
                 Github
               </a>
             </li>
