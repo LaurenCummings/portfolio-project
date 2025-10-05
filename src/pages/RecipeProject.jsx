@@ -29,6 +29,7 @@ function RecipeProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://laurencummings.github.io/recipe-project2/">finished project</a></li>
           </ul>
         </div>
       </div>
