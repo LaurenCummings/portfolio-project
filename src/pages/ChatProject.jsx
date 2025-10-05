@@ -26,6 +26,7 @@ function ChatProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://chat-project-rkax.onrender.com">finished project</a></li>
           </ul>
         </div>
       </div>

@@ -22,6 +22,7 @@ function NotesProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://thinkboard-project.onrender.com/">finished project</a></li>
           </ul>
         </div>
       </div>

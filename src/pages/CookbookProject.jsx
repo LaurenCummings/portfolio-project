@@ -25,6 +25,7 @@ function CookbookProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://cookbook-project-b5v3.onrender.com/">finished project</a></li>
           </ul>
         </div>
       </div>

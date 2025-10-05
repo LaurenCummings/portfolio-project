@@ -21,6 +21,7 @@ function MovieProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://laurencummings.github.io/movie-project/">finished project</a></li>
           </ul>
         </div>
       </div>

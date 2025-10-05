@@ -24,6 +24,7 @@ function SpaProject() {
               View the code on{" "}
               <a target="_blank" href="https://github.com/LaurenCummings/spa-project">Github</a>
             </li>
+            <li>View the <a target="_blank" href="https://laurencummings.github.io/spa-project/">finished project</a></li>
           </ul>
         </div>
       </div>

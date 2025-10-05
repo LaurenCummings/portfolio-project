@@ -23,6 +23,7 @@ function ShopProject() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://laurencummings.github.io/shop-project/">finished project</a></li>
           </ul>
         </div>
       </div>

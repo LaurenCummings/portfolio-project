@@ -30,6 +30,7 @@ function CummingsMaple() {
                 Github
               </a>
             </li>
+            <li>View the <a target="_blank" href="https://cummingsmaple.com">finished project</a></li>
           </ul>
         </div>
       </div>
