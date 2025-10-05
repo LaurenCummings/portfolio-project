@@ -6,7 +6,7 @@ import cummingsMaple from "../assets/cummingsMaple.png";
 import spaProject from "../assets/spaProjectShort.png";
 import recipeProject from "../assets/recipeProject.png";
 import blogProject from "../assets/blogProject.png";
-import cookbookProject from "../assets/cookbookProject.png";
+import cookbookProject from "../assets/cookbookProjectShort.png";
 import notesProject from "../assets/notesProject.png";
 import chatProject from "../assets/chatProject.png";
 
