@@ -25,11 +25,6 @@ function Home() {
             <img src={cookbookProject} alt="Cookbook Project" />
           </Link>
         </div>
-        <div className="project">
-          <Link to="/notes-project">
-            <img src={notesProject} alt="Notes Project" />
-          </Link>
-        </div>
       </div>
       <h1>Front-End Projects</h1>
       <div className="selected-projects">
